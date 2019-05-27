@@ -12,3 +12,8 @@ Everything you need to know about using the Omega2 LTE so you can jump start you
 ## Images
 
 The [Images](./Images) directory holds official photos of the Omega2 LTE. Credit goes to the team at [Crowd Supply](https://www.crowdsupply.com/).
+
+## Hardware
+
+Schematics and layout images are available for the Omega2 LTE in the [Hardware](./Hardware) directory.
+
