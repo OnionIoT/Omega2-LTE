@@ -33,6 +33,12 @@ Follow the links below for more info on each module:
 * [Quectel EC25-AF](https://www.quectel.com/product/ec25.htm)
 * [Quectel EG25-G](https://www.quectel.com/product/eg25g.htm)
 
+## Software
+
+The `o2lte` command can be used on the Omega2 LTE to communicate with and control the cellular modem. 
+
+The source code for the `o2lte` program can be found here: https://github.com/OnionIoT/OpenWRT-Packages/tree/openwrt-18.06/omega2-lte
+
 ## Images
 
 The [Images](./Images) directory holds official photos of the Omega2 LTE. Credit goes to the team at [Crowd Supply](https://www.crowdsupply.com/).
